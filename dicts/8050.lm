@@ -1,0 +1,171 @@
+Language model created by QuickLM on Tue Jun 11 13:14:19 EDT 2019
+Copyright (c) 1996-2010 Carnegie Mellon University and Alexander I. Rudnicky
+
+The model is in standard ARPA format, designed by Doug Paul while he was at MITRE.
+
+The code that was used to produce this language model is available in Open Source.
+Please visit http://www.speech.cs.cmu.edu/tools/ for more information
+
+The (fixed) discount mass is 0.5. The backoffs are computed using the ratio method.
+This model based on a corpus of 31 sentences and 34 words
+
+\data\
+ngram 1=34
+ngram 2=65
+ngram 3=49
+
+\1-grams:
+-0.8550 </s> -0.3010
+-0.8550 <s> -0.2357
+-2.3464 AROUND -0.2357
+-2.3464 CONFIRM -0.2357
+-2.3464 DENY -0.2357
+-1.8692 DOWN -0.2357
+-2.3464 EIGHT -0.2357
+-2.3464 ELEVATOR -0.2357
+-2.3464 FACE -0.2951
+-2.3464 FIVE -0.2357
+-2.3464 FOUR -0.2357
+-1.7443 GO -0.2810
+-2.0453 LEFT -0.2357
+-1.8692 ME -0.2311
+-1.7443 MOVE -0.2810
+-2.3464 NINE -0.2357
+-2.3464 NO -0.2357
+-2.3464 OFF -0.2357
+-2.3464 ONE -0.2357
+-2.3464 PICK -0.2951
+-2.0453 RIGHT -0.2357
+-2.3464 ROOM -0.2357
+-2.3464 SEVEN -0.2357
+-2.3464 SHUT -0.2951
+-2.3464 SIX -0.2357
+-2.3464 STOP -0.2357
+-2.3464 TAKE -0.2951
+-2.3464 THREE -0.2357
+-2.0453 TO -0.2931
+-1.8692 TURN -0.2931
+-2.3464 TWO -0.2357
+-1.8692 UP -0.2357
+-2.3464 YES -0.2357
+-2.3464 ZERO -0.2357
+
+\2-grams:
+-1.7924 <s> CONFIRM 0.0000
+-1.7924 <s> DENY 0.0000
+-1.7924 <s> EIGHT 0.0000
+-1.7924 <s> ELEVATOR 0.0000
+-1.7924 <s> FACE 0.0000
+-1.7924 <s> FIVE 0.0000
+-1.7924 <s> FOUR 0.0000
+-1.1903 <s> GO 0.0000
+-1.1903 <s> MOVE 0.0000
+-1.7924 <s> NINE 0.0000
+-1.7924 <s> NO 0.0000
+-1.7924 <s> ONE 0.0000
+-1.7924 <s> PICK 0.0000
+-1.7924 <s> SEVEN 0.0000
+-1.7924 <s> SHUT 0.0000
+-1.7924 <s> SIX 0.0000
+-1.7924 <s> STOP 0.0000
+-1.7924 <s> TAKE 0.0000
+-1.7924 <s> THREE 0.0000
+-1.3153 <s> TURN 0.0000
+-1.7924 <s> TWO 0.0000
+-1.7924 <s> YES 0.0000
+-1.7924 <s> ZERO 0.0000
+-0.3010 AROUND </s> -0.3010
+-0.3010 CONFIRM </s> -0.3010
+-0.3010 DENY </s> -0.3010
+-0.3010 DOWN </s> -0.3010
+-0.3010 EIGHT </s> -0.3010
+-0.3010 ELEVATOR </s> -0.3010
+-0.3010 FACE ME -0.1249
+-0.3010 FIVE </s> -0.3010
+-0.3010 FOUR </s> -0.3010
+-0.9031 GO DOWN 0.0000
+-0.9031 GO LEFT 0.0000
+-0.9031 GO RIGHT 0.0000
+-0.9031 GO UP 0.0000
+-0.3010 LEFT </s> -0.3010
+-0.4771 ME </s> -0.3010
+-0.7782 ME TO -0.1761
+-0.9031 MOVE DOWN 0.0000
+-0.9031 MOVE LEFT 0.0000
+-0.9031 MOVE RIGHT 0.0000
+-0.9031 MOVE UP 0.0000
+-0.3010 NINE </s> -0.3010
+-0.3010 NO </s> -0.3010
+-0.3010 OFF </s> -0.3010
+-0.3010 ONE </s> -0.3010
+-0.3010 PICK UP 0.0000
+-0.3010 RIGHT </s> -0.3010
+-0.3010 ROOM </s> -0.3010
+-0.3010 SEVEN </s> -0.3010
+-0.3010 SHUT DOWN 0.0000
+-0.3010 SIX </s> -0.3010
+-0.3010 STOP </s> -0.3010
+-0.3010 TAKE ME -0.2218
+-0.3010 THREE </s> -0.3010
+-0.6021 TO ME -0.1249
+-0.6021 TO ROOM 0.0000
+-0.7782 TURN AROUND 0.0000
+-0.7782 TURN OFF 0.0000
+-0.7782 TURN TO -0.1761
+-0.3010 TWO </s> -0.3010
+-0.3010 UP </s> -0.3010
+-0.3010 YES </s> -0.3010
+-0.3010 ZERO </s> -0.3010
+
+\3-grams:
+-0.3010 <s> CONFIRM </s>
+-0.3010 <s> DENY </s>
+-0.3010 <s> EIGHT </s>
+-0.3010 <s> ELEVATOR </s>
+-0.3010 <s> FACE ME
+-0.3010 <s> FIVE </s>
+-0.3010 <s> FOUR </s>
+-0.9031 <s> GO DOWN
+-0.9031 <s> GO LEFT
+-0.9031 <s> GO RIGHT
+-0.9031 <s> GO UP
+-0.9031 <s> MOVE DOWN
+-0.9031 <s> MOVE LEFT
+-0.9031 <s> MOVE RIGHT
+-0.9031 <s> MOVE UP
+-0.3010 <s> NINE </s>
+-0.3010 <s> NO </s>
+-0.3010 <s> ONE </s>
+-0.3010 <s> PICK UP
+-0.3010 <s> SEVEN </s>
+-0.3010 <s> SHUT DOWN
+-0.3010 <s> SIX </s>
+-0.3010 <s> STOP </s>
+-0.3010 <s> TAKE ME
+-0.3010 <s> THREE </s>
+-0.7782 <s> TURN AROUND
+-0.7782 <s> TURN OFF
+-0.7782 <s> TURN TO
+-0.3010 <s> TWO </s>
+-0.3010 <s> YES </s>
+-0.3010 <s> ZERO </s>
+-0.3010 FACE ME </s>
+-0.3010 GO DOWN </s>
+-0.3010 GO LEFT </s>
+-0.3010 GO RIGHT </s>
+-0.3010 GO UP </s>
+-0.3010 ME TO ROOM
+-0.3010 MOVE DOWN </s>
+-0.3010 MOVE LEFT </s>
+-0.3010 MOVE RIGHT </s>
+-0.3010 MOVE UP </s>
+-0.3010 PICK UP </s>
+-0.3010 SHUT DOWN </s>
+-0.3010 TAKE ME TO
+-0.3010 TO ME </s>
+-0.3010 TO ROOM </s>
+-0.3010 TURN AROUND </s>
+-0.3010 TURN OFF </s>
+-0.3010 TURN TO ME
+
+\end\

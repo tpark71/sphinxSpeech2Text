@@ -1,0 +1,31 @@
+go left
+go right
+go up
+go down
+move left
+move right
+move up
+move down
+zero
+one
+two
+three
+four
+five
+six
+seven
+eight
+nine
+pick up
+take me to room
+elevator
+turn around
+turn off
+stop
+shut down
+turn to me
+face me
+yes
+no
+confirm
+deny

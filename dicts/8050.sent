@@ -1,0 +1,31 @@
+<s> GO LEFT </s>
+<s> GO RIGHT </s>
+<s> GO UP </s>
+<s> GO DOWN </s>
+<s> MOVE LEFT </s>
+<s> MOVE RIGHT </s>
+<s> MOVE UP </s>
+<s> MOVE DOWN </s>
+<s> ZERO </s>
+<s> ONE </s>
+<s> TWO </s>
+<s> THREE </s>
+<s> FOUR </s>
+<s> FIVE </s>
+<s> SIX </s>
+<s> SEVEN </s>
+<s> EIGHT </s>
+<s> NINE </s>
+<s> PICK UP </s>
+<s> TAKE ME TO ROOM </s>
+<s> ELEVATOR </s>
+<s> TURN AROUND </s>
+<s> TURN OFF </s>
+<s> STOP </s>
+<s> SHUT DOWN </s>
+<s> TURN TO ME </s>
+<s> FACE ME </s>
+<s> YES </s>
+<s> NO </s>
+<s> CONFIRM </s>
+<s> DENY </s>
