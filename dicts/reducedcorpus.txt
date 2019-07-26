@@ -1,0 +1,12 @@
+go left
+go right
+go up
+go down
+move left
+move right
+move up
+move down
+turn around
+turn off
+stop
+shut down

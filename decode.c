@@ -15,11 +15,11 @@ int main(void) {
     clock_gettime(CLOCK_REALTIME, &start);
     system("\
         pocketsphinx_continuous \
-        -infile testfiles/filtered.wav \
-        -dict dicts/8050.dic \
-        -lm dicts/8050.lm \
+        -infile testfiles/noisy.wav \
+        -dict dicts/3651.dic \
+        -lm dicts/3651.lm \
         2>./output/unwanted-stuff.log | tee ./output/words.txt");
-    // pocketsphinx_continuous -infile testfiles/Untitled.wav -dict dicts/8050.dic -lm dicts/8050.lm 2>./output/unwanted-stuff.log | tee ./output/words.txt
+    // pocketsphinx_continuous -infile testfiles/speech.wav -dict dicts/8050.dic -lm dicts/8050.lm 2>./output/unwanted-stuff.log | tee ./output/words.txt
     system("echo done decoding...");
     clock_gettime(CLOCK_REALTIME, &end);
     double time_spent = (end.tv_sec - start.tv_sec) +

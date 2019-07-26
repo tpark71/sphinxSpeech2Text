@@ -481,21 +481,21 @@ CLEANFILES = test*.err test*.out		\
 	chan3.wav.mfc				\
 	chan3.raw.mfc
 
-#TESTS = \
-#	test-cepview.sh \
-#	test-sphinx_fe-ctl.sh \
-#	test-sphinx_fe-dct.sh \
-#	test-sphinx_fe-dither-seed.sh \
-#	test-sphinx_fe-logspec2cep.sh \
-#	test-sphinx_fe-logspec.sh \
-#	test-sphinx_fe.sh \
-#	test-sphinx_fe-smoothspec.sh \
-#	test-sphinx_jsgf2fsg.sh \
-#	test-sphinx_pitch.sh
+TESTS = \
+	test-cepview.sh \
+	test-sphinx_fe-ctl.sh \
+	test-sphinx_fe-dct.sh \
+	test-sphinx_fe-dither-seed.sh \
+	test-sphinx_fe-logspec2cep.sh \
+	test-sphinx_fe-logspec.sh \
+	test-sphinx_fe.sh \
+	test-sphinx_fe-smoothspec.sh \
+	test-sphinx_jsgf2fsg.sh \
+	test-sphinx_pitch.sh
 
 
 # Disable sphinx_fe tests for now if fixed-point due to imprecision
-TESTS = test-cepview.sh test-sphinx_pitch.sh
+#TESTS = test-cepview.sh test-sphinx_pitch.sh
 all: all-am
 
 .SUFFIXES:

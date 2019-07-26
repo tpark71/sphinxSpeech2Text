@@ -1,4 +1,6 @@
-
+output/unwanted-stuff.log
+output/words.txt
+._*
 decode
 testfiles/filtered.wav
 testfiles/noisy.wav

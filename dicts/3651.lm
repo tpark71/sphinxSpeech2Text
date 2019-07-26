@@ -1,0 +1,82 @@
+Language model created by QuickLM on Fri Jul 26 10:32:12 EDT 2019
+Copyright (c) 1996-2010 Carnegie Mellon University and Alexander I. Rudnicky
+
+The model is in standard ARPA format, designed by Doug Paul while he was at MITRE.
+
+The code that was used to produce this language model is available in Open Source.
+Please visit http://www.speech.cs.cmu.edu/tools/ for more information
+
+The (fixed) discount mass is 0.5. The backoffs are computed using the ratio method.
+This model based on a corpus of 12 sentences and 13 words
+
+\data\
+ngram 1=13
+ngram 2=23
+ngram 3=23
+
+\1-grams:
+-0.8939 </s> -0.3010
+-0.8939 <s> -0.2417
+-1.9731 AROUND -0.2417
+-1.4960 DOWN -0.2417
+-1.3711 GO -0.2573
+-1.6721 LEFT -0.2417
+-1.3711 MOVE -0.2573
+-1.9731 OFF -0.2417
+-1.6721 RIGHT -0.2417
+-1.9731 SHUT -0.2869
+-1.9731 STOP -0.2417
+-1.6721 TURN -0.2917
+-1.6721 UP -0.2417
+
+\2-grams:
+-0.7782 <s> GO 0.0000
+-0.7782 <s> MOVE 0.0000
+-1.3802 <s> SHUT 0.0000
+-1.3802 <s> STOP 0.0000
+-1.0792 <s> TURN 0.0000
+-0.3010 AROUND </s> -0.3010
+-0.3010 DOWN </s> -0.3010
+-0.9031 GO DOWN 0.0000
+-0.9031 GO LEFT 0.0000
+-0.9031 GO RIGHT 0.0000
+-0.9031 GO UP 0.0000
+-0.3010 LEFT </s> -0.3010
+-0.9031 MOVE DOWN 0.0000
+-0.9031 MOVE LEFT 0.0000
+-0.9031 MOVE RIGHT 0.0000
+-0.9031 MOVE UP 0.0000
+-0.3010 OFF </s> -0.3010
+-0.3010 RIGHT </s> -0.3010
+-0.3010 SHUT DOWN 0.0000
+-0.3010 STOP </s> -0.3010
+-0.6021 TURN AROUND 0.0000
+-0.6021 TURN OFF 0.0000
+-0.3010 UP </s> -0.3010
+
+\3-grams:
+-0.9031 <s> GO DOWN
+-0.9031 <s> GO LEFT
+-0.9031 <s> GO RIGHT
+-0.9031 <s> GO UP
+-0.9031 <s> MOVE DOWN
+-0.9031 <s> MOVE LEFT
+-0.9031 <s> MOVE RIGHT
+-0.9031 <s> MOVE UP
+-0.3010 <s> SHUT DOWN
+-0.3010 <s> STOP </s>
+-0.6021 <s> TURN AROUND
+-0.6021 <s> TURN OFF
+-0.3010 GO DOWN </s>
+-0.3010 GO LEFT </s>
+-0.3010 GO RIGHT </s>
+-0.3010 GO UP </s>
+-0.3010 MOVE DOWN </s>
+-0.3010 MOVE LEFT </s>
+-0.3010 MOVE RIGHT </s>
+-0.3010 MOVE UP </s>
+-0.3010 SHUT DOWN </s>
+-0.3010 TURN AROUND </s>
+-0.3010 TURN OFF </s>
+
+\end\
