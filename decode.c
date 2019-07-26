@@ -8,7 +8,9 @@ int main(void) {
     struct timespec start, end;
 
     system("export LD_LIBRARY_PATH=/usr/local/lib");
+    system("aplay /home/pi/speech2text/beep-07.wav");
     system("arecord --format=S16_LE --duration=5 --rate=16k -D sysdefault:CARD=1 --file-type=wav testfiles/noisy.wav");
+    system("aplay /home/pi/speech2text/beep-08b.wav");
     system("echo done recording...");
     system("python testfiles/noiseClean.py");
     system("echo done cleaning...");
