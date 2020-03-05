@@ -1,3 +1,4 @@
+mkdir output
 sudo apt-get install bison
 sudo apt-get install swig
 cd sphinxbase-5prealpha
@@ -12,3 +13,4 @@ cd ../pocketsphinx-5prealpha
 .configure
 make -j
 sudo make install
+sudo ldconfig
