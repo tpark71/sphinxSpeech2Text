@@ -1,0 +1,228 @@
+how are you today?
+Klauba, how do I get to the atrium?
+Where am I?
+Klauba, where am I?
+What room am I in?
+Klauba, what room am I in?
+Go forward
+Go backward
+Stop
+Stop moving
+Klauba, stop
+Go left
+Go Right
+Move left
+Move right
+Move forward
+Move backward
+Hi Klauba
+Hello Klauba
+How are you today, Klauba?
+What building am I in?
+Show me to room 2333
+How do I get to 2333
+How do I get to room 2333
+Show me to 2333
+Where is 2333
+Take me to room 2333
+Take me to 2333
+Move to room 2333
+Move to 2333
+Show me to room 2335
+How do I get to 2335
+How do I get to room 2335
+Show me to 2335
+Where is 2335
+Take me to room 2335
+Take me to 2335
+Move to room 2335
+Move to 2335
+Show me to room 2341
+How do I get to 2341
+How do I get to room 2341
+Show me to 2341
+Where is 2341
+Take me to room 2341
+Take me to 2341
+Move to room 2341
+Move to 2341
+Show me to room 2337
+How do I get to 2337
+How do I get to room 2337
+Show me to 2337
+Where is 2337
+Take me to room 2337
+Take me to 2337
+Move to room 2337
+Move to 2337
+Show me to room 2347
+How do I get to 2347
+How do I get to room 2347
+Show me to 2347
+Where is 2347
+Take me to room 2347
+Take me to 2347
+Move to room 2347
+Move to 2347
+Show me to room 2359
+How do I get to 2359
+How do I get to room 2359
+Show me to 2359
+Where is 2359
+Take me to room 2359
+Take me to 2359
+Move to room 2359
+Move to 2359
+Show me to room 2355
+How do I get to 2355
+How do I get to room 2355
+Show me to 2355
+Where is 2355
+Take me to room 2355
+Take me to 2355
+Move to room 2355
+Move to 2355
+Show me to room 2357
+How do I get to 2357
+How do I get to room 2357
+Show me to 2357
+Where is 2357
+Take me to room 2357
+Take me to 2357
+Move to room 2357
+Move to 2357
+Show me to room 2363
+How do I get to 2363
+How do I get to room 2363
+Show me to 2363
+Where is 2363
+Take me to room 2363
+Take me to 2363
+Move to room 2363
+Move to 2363
+Show me to room 2361
+How do I get to 2361
+How do I get to room 2361
+Show me to 2361
+Where is 2361
+Take me to room 2361
+Take me to 2361
+Move to room 2361
+Move to 2361
+Show me to room 2332
+How do I get to 2332
+How do I get to room 2332
+Show me to 2332
+Where is 2332
+Take me to room 2332
+Take me to 2332
+Move to room 2332
+Move to 2332
+Show me to room 2334
+How do I get to 2334
+How do I get to room 2334
+Show me to 2334
+Where is 2334
+Take me to room 2334
+Take me to 2334
+Move to room 2334
+Move to 2334
+Show me to room 2336
+How do I get to 2336
+How do I get to room 2336
+Show me to 2336
+Where is 2336
+Take me to room 2336
+Take me to 2336
+Move to room 2336
+Move to 2336
+Show me to room 2338
+How do I get to 2338
+How do I get to room 2338
+Show me to 2338
+Where is 2338
+Take me to room 2338
+Take me to 2338
+Move to room 2338
+Move to 2338
+Show me to room 2340
+How do I get to 2340
+How do I get to room 2340
+Show me to 2340
+Where is 2340
+Take me to room 2340
+Take me to 2340
+Move to room 2340
+Move to 2340
+Show me to room 2342
+How do I get to 2342
+How do I get to room 2342
+Show me to 2342
+Where is 2342
+Take me to room 2342
+Take me to 2342
+Move to room 2342
+Move to 2342
+Show me to room 2344
+How do I get to 2344
+How do I get to room 2344
+Show me to 2344
+Where is 2344
+Take me to room 2344
+Take me to 2344
+Move to room 2344
+Move to 2344
+Show me to room 2346
+How do I get to 2346
+How do I get to room 2346
+Show me to 2346
+Where is 2346
+Take me to room 2346
+Take me to 2346
+Move to room 2346
+Move to 2346
+Show me to room 2350
+How do I get to 2350
+How do I get to room 2350
+Show me to 2350
+Where is 2350
+Take me to room 2350
+Take me to 2350
+Move to room 2350
+Move to 2350
+Show me to room 2356
+How do I get to 2356
+How do I get to room 2356
+Show me to 2356
+Where is 2356
+Take me to room 2356
+Take me to 2356
+Move to room 2356
+Move to 2356
+Show me to room 2358
+How do I get to 2358
+How do I get to room 2358
+Show me to 2358
+Where is 2358
+Take me to room 2358
+Take me to 2358
+Move to room 2358
+Move to 2358
+Show me to room 2360
+How do I get to 2360
+How do I get to room 2360
+Show me to 2360
+Where is 2360
+Take me to room 2360
+Take me to 2360
+Move to room 2360
+Move to 2360
+Show me to room 2362
+How do I get to 2362
+How do I get to room 2362
+Show me to 2362
+Where is 2362
+Take me to room 2362
+Take me to 2362
+Move to room 2362
+Move to 2362

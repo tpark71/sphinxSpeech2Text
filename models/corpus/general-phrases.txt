@@ -1,0 +1,21 @@
+how are you today?
+Klauba, how do I get to the atrium?
+Where am I?
+Klauba, where am I?
+What room am I in?
+Klauba, what room am I in?
+Go forward
+Go backward
+Stop
+Stop moving
+Klauba, stop
+Go left
+Go Right
+Move left
+Move right
+Move forward
+Move backward
+Hi Klauba
+Hello Klauba
+How are you today, Klauba?
+What building am I in?
